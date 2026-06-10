@@ -53,7 +53,6 @@ Screenshots/
 * search_student.png
 * update_student.png
 * delete_student.png
-* validation.png
 * exit.png
 
 
