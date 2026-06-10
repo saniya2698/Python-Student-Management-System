@@ -45,16 +45,15 @@ Student-Management-System/
 ├── Documentation.pdf
 ├── Testing_Report.pdf
 │
-├── Screenshots/
-│   ├── Main_menu.png
-│   ├── Add_student.png
-│   ├── View_students.png
-│   ├── Search_student.png
-│   ├── Update_student.png
-│   ├── Delete_student.png
-│   └── Exit.png
-│
-└── .gitignore
+└── Screenshots/
+    ├── main_menu.png
+    ├── add_student.png
+    ├── view_students.png
+    ├── search_student.png
+    ├── update_student.png
+    ├── delete_student.png
+    ├── validation.png
+    └── exit.png
 
 ## Author
 
