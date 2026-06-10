@@ -60,5 +60,7 @@ Screenshots/
 ## Author
 
 Saniya Shaikh
-BCA
+
+BCA Student
+
 Python & Machine Learning Enthusiast
