@@ -38,22 +38,24 @@ python student_management.py
 
 ## Project Structure
 
-Student-Management-System/
-│
-├── student_management.py
-├── README.md
-├── Documentation.pdf
-├── Testing_Report.pdf
-│
-└── Screenshots/
-    ├── main_menu.png
-    ├── add_student.png
-    ├── view_students.png
-    ├── search_student.png
-    ├── update_student.png
-    ├── delete_student.png
-    ├── validation.png
-    └── exit.png
+Student-Management-System
+
+* student_management.py
+* README.md
+* Documentation.pdf
+* Testing_Report.pdf
+
+Screenshots/
+
+* main_menu.png
+* add_student.png
+* view_students.png
+* search_student.png
+* update_student.png
+* delete_student.png
+* validation.png
+* exit.png
+
 
 ## Author
 
